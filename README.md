@@ -24,7 +24,6 @@ Projeyi en iyi su sirayla okursun:
 ## 1) Tight Coupling
 
 ### Kod ne yapiyor?
-
 `com.tight.coupling.UserManager`, dogrudan `UserDatabase` olusturuyor:
 
 ```java
