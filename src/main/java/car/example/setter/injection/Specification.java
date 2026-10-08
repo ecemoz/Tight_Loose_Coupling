@@ -1,4 +1,4 @@
-package car.example.constructor.injection;
+package car.example.setter.injection;
 
 public class Specification {
 

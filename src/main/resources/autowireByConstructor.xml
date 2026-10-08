@@ -4,16 +4,16 @@
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="specification" class="car.example.autowire.type.Specification">
+    <bean id="specification" class="car.example.autowire.constructor.Specification">
         <property name="make" value="TOYOTA"/>
         <property name="model" value="Corolla"/>
     </bean>
 
-<!--    <bean id="specification1" class="car.example.autowire.type.Specification">-->
+<!--    <bean id="specification1" class="car.example.autowire.constructor.Specification">-->
 <!--        <property name="make" value="HONDA"/>-->
 <!--        <property name="model" value="Civic"/>-->
 <!--    </bean>-->
 
-    <bean id ="myCar" class="car.example.autowire.type.Car" autowire="byType"/>
+    <bean id ="myCar" class="car.example.autowire.constructor.Car" autowire="constructor"/>
 
 </beans>

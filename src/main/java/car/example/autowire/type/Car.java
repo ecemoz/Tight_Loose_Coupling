@@ -1,4 +1,4 @@
-package car.example.autowire.name;
+package car.example.autowire.type;
 
 public class Car {
 
