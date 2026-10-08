@@ -1,5 +1,5 @@
 # Tight vs Loose Coupling ve Spring IoC: Adım Adım Öğrenme Rehberi
-
+-Hazırlayan: Ecem Nur Özen
 Bu proje, **bağımlılık yönetimi** konusunu sıfırdan öğrenmen için hazırlandı. Her bölüm bir öncekinin üstüne eklenir. Bu yüzden bölümleri **sırayla** okuman ve ilgili paketteki kodu açıp yanında takip etmen en verimlisi olur.
 
 ---
