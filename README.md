@@ -659,4 +659,4 @@ Spring IoC de tam olarak bunu kolaylaştırır: nesneleri senin yerine yaratır,
 4. 💉 **Constructor vs Setter:** Zorunlu bağımlılık → constructor, opsiyonel bağımlılık → setter.
 5. 🤖 **Autowire:** Bağlamayı Spring'e bırak (`byName`, `byType`, `constructor`).
 
-Başarılar! 🚀
+Başarılar! Hazırlayan: Ecem Nur ÖZEN
